@@ -1,0 +1,1 @@
+window.ATLAS_FINANCE_SEED={format:"atlas-finance",schema:1,sourceApp:"Atlas",sourceVersion:"0.9.9",importedAt:"",selectedOwnerId:0,users:[],accounts:[],cards:[],categories:[],expenses:[],incomes:[],internal_transfers:[],loans:[],loan_installments:[],recurring_expenses:[],recurring_incomes:[],goals:[],budgets:[],import_rules:[]};
